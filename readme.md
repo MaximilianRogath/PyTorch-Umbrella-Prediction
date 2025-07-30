@@ -19,7 +19,7 @@ A simple, beginner-friendly introduction to deep learning using PyTorch. This tu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MaximilianRogath/pytorch-umbrella-prediction.git
+   git clone https://github.com/MaximilianRogath/PyTorch-Umbrella-Prediction.git
    cd pytorch-umbrella-prediction
    ```
 
