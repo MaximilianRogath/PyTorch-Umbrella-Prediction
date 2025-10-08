@@ -20,7 +20,7 @@ A simple, beginner-friendly introduction to deep learning using PyTorch. This tu
 1. **Clone the repository**
    ```bash
    git clone https://github.com/MaximilianRogath/PyTorch-Umbrella-Prediction.git
-   cd pytorch-umbrella-prediction
+   cd PyTorch-Umbrella-Prediction
    ```
 
 2. **Install dependencies**
@@ -79,3 +79,6 @@ You can modify the following parameters in the code:
 - **Backpropagation**: How the network learns from its mistakes
 - **Loss Function**: Measures how wrong the predictions are
 - **Optimizer**: The algorithm that improves the network
+
+## License
+This project is licensed under the MIT License.
